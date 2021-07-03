@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davlovsky
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on C# programmers
+- 💞️ I’m looking to collaborate with C# programmers
 - 📫 How to reach me @ davlovsky@gmail.com
 
 <!---
