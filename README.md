@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @davlovsky
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate with C# programmers
-- 📫 How to reach me @ davlovsky@gmail.com
+📫 How to reach me @ davlovsky@gmail.com
 
 <!---
 davlovsky/davlovsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
